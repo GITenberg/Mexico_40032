@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40375'
     url: http://www.gutenberg.org/2009/agents/40375
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40032#Mexico
 gutenberg_issued: '2012-06-18'
 gutenberg_type: Text
 identifiers:
